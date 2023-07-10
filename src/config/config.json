@@ -1,8 +1,8 @@
 {
   "development": {
     "username": "root",
-    "password": "Mayur@4454",
-    "database": "database_development",
+    "password": "root",
+    "database": "flight_serch_db_dev",
     "host": "127.0.0.1",
     "dialect": "mysql",
     "operatorsAliases": false
